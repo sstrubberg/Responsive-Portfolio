@@ -242,7 +242,15 @@ body {
         width: 100%
     }
     .container {
-        max-width: 900px;
+        max-width: 760px;
+        margin-right: 100px;
+        margin-left: 100px;
+    }
+    .main-section {
+        max-width:450px;
+    }
+    .work {
+      width: 388px;
     }
 }
 
