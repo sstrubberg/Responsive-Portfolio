@@ -237,7 +237,7 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
-@media screen and (max-width:980px) {
+@media screen and (max-width:980px) and (min-width:769px){
     .auth-image {
         width: 100%
     }
@@ -293,5 +293,8 @@ body {
         padding: 20px 20px 20px 20px;
         margin-top: 40px;
         margin-bottom: 20px;
+    }
+    .work {
+      width: 100%;
     }
 }
